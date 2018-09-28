@@ -1,0 +1,8 @@
+.app-header{
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-variant: small-caps;
+    width:100%;
+    text-align: center;
+}
